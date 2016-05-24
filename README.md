@@ -15,6 +15,7 @@ Here is the menu structure to follow
 		- Blog
 	- Contact
 
+You can just stick with white text on black backgrounds for the menu and the drop downs, we will be doing more complicated visuals in the coming assignments but we will keep it simple for this one. You can pick any font you want to use, bonus points if you use a Google Font, here is an article about using them https://developers.google.com/fonts/docs/getting_started#specifying_font_families_and_styles_in_a_stylesheet_url
 
 here is a good article with some best practices and some examples of drop downs https://www.smashingmagazine.com/2009/03/designing-drop-down-menus-examples-and-best-practices/
 
