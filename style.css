@@ -1,0 +1,18 @@
+ul.main-menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #006295;
+}
+
+ul.main-menu li {float:left;}
+
+ul.main-menu li a {
+	color: white;
+	display: inline-block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 16px;
+}
